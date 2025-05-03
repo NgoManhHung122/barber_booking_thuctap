@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283593911338",
+    "project_id": "barberapp-dcdaf",
+    "storage_bucket": "barberapp-dcdaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283593911338:android:d42e2b84116bbfbd6de753",
+        "android_client_info": {
+          "package_name": "com.ngomanhhung1202.barber_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5o60m9-kGiqjdXzPZxI0wlec87-H2co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
